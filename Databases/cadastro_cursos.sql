@@ -42,6 +42,7 @@ CREATE TABLE `cursos` (
 
 LOCK TABLES `cursos` WRITE;
 /*!40000 ALTER TABLE `cursos` DISABLE KEYS */;
+INSERT INTO `cursos` VALUES (1,'HTML5','Curso de HTML5',40,37,2014),(2,'Algoritimos','Logica de Programação',20,8,2014),(3,'Photoshop','Aulas de Photoshop CC',9,20,2014),(4,'PHP','PHP para Iniciantes',33,40,2015),(5,'Java','Intro ao Java',22,40,2015),(6,'MySQL','Curso MySQL',21,15,2016);
 /*!40000 ALTER TABLE `cursos` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -54,4 +55,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-11-08 16:06:09
+-- Dump completed on 2024-12-05  7:57:46
