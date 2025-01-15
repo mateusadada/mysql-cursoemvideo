@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> The repository and README are under development.
-
 <h1 align="center">MySQL [40 Hours] - Curso em Vídeo</h1>
 <div align="center"><i>A complete list of solved exercises</i><br><br>
 <a href="https://github.com/mateusadada/mysql-cursoemvideo/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/mysql-cursoemvideo" alt="Stars Badge"/></a>
